@@ -1,6 +1,6 @@
 # Software introduction
 
-This software is develeloped for Capacity-Based Design of TIMBER BRACED FRAMES
+This software is develeloped for Capacity-Based Design of TIMBER BRACED FRAMES in accordance with the National Building Code of Canada (NBCC) and the Canadian Standard for Engineering Design in Wood (CSA O86).
 
 # Developer
 
