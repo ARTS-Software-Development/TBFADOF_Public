@@ -11,6 +11,7 @@ https://sites.google.com/ualberta.ca/timber
 # Reference
 
 Capacity-Based Design of Timber Braced Frames: Methodology and Design Tool Implementation (Under Review).
+Nastaran Cheshmehkaboodi; Hoang D. Nguyen; Hossein Daneshvar; Ying Hei Chui
 
 # Download
 
